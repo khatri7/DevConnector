@@ -74,6 +74,10 @@ img {
   color: var(--dark-color);
 }
 
+.table-column {
+  width: 30%;
+}
+
 /* Padding */
 .p {
   padding: 0.5rem;
@@ -492,6 +496,10 @@ button {
 @media (max-width: 700px) {
   .container {
     margin-top: 8rem;
+  }
+
+  .sm-width {
+    width: 100%;
   }
 
   .hide-sm {
