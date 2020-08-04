@@ -78,6 +78,10 @@ img {
   width: 30%;
 }
 
+.like-color {
+  color: rgb(255, 0, 0);
+}
+
 /* Padding */
 .p {
   padding: 0.5rem;
