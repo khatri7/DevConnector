@@ -1,3 +1,3 @@
 # DevConnector
 Social Media for Developers<br />
-[Preview](dev-connector-khatri.herokuapp.com)
+<a href="https://dev-connector-khatri.herokuapp.com/" target="_blank">Preview</a>
